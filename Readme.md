@@ -1,1 +1,1 @@
-### this is a simple shoping list app with valilla javascript
+### This is a simple shoping list app with valilla javascript
